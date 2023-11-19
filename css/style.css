@@ -10,3 +10,6 @@
 
 /* UTILITIES */
 @import "./utilities/components.css";
+
+/* BIKES */
+@import "./bikes/bike-list.css"
