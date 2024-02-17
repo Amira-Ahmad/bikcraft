@@ -1,0 +1,19 @@
+.terms {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.terms h2 {
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+/* estiliza todo H@ que for seguido de um P */
+.terms p + h2 {
+  margin-top: 40px;
+}
+
+.terms p {
+  margin-bottom: 24px;
+  max-width: 75ch;
+}
