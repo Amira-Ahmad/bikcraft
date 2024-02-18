@@ -19,8 +19,11 @@
 @import "./bikes/bike-list.css";
 @import "./bikes/bikes.css";
 
+
 /* SEGUROS */
 @import "./insurrance/insurrance.css";
+@import "./insurrance/benefits.css";
+@import "./insurrance/qa.css";
 
 /* TERMOS E CONDIÇÕES */
 @import "./terms/terms.css";
